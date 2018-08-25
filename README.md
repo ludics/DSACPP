@@ -1,1 +1,1 @@
-Codes for Data Structure lessons in XuetangX, instruted by Professor Deng Junhui.
+Codes for Data Structure lessons in XuetangX, instructed by Professor Deng Junhui.
